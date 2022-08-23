@@ -1,0 +1,20 @@
+﻿WpfLibrary
+
+
+winexe
+C#
+.cs
+C:\Users\דוברין\Desktop\Tamar\oop project\WpfLibrary\WpfLibrary\obj\Debug\
+WpfLibrary
+none
+false
+DEBUG;TRACE
+C:\Users\דוברין\Desktop\Tamar\oop project\WpfLibrary\WpfLibrary\App.xaml
+121818968647
+
+302054956252
+1251773860275
+MainWindow.xaml;UIelements\workerPages\AddItemUC.xaml;UIelements\customerPages\Borrow.xaml;UIelements\workerPages\DiscountManager.xaml;UIelements\customerPages\EndBorrow.xaml;UIelements\Entrence\MainRegister.xaml;UIelements\Entrence\RegisterUC.xaml;UIelements\workerPages\ReportProduction.xaml;UIelements\customerPages\Returns.xaml;UIelements\customerPages\TopFiveUc.xaml;UIelements\Entrence\WorkerEnter.xaml;UIelements\workerPages\WorkerAction.xaml;
+
+False
+
